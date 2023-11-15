@@ -1,0 +1,134 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Langage Externe
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Projet WD Langage Externe C
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAACVl+SyQCQfi488XAc3d0FBMpN3EByQAX1BB5piD0y4yz7klqCr1KXeVO1gfrBTCRuqi1UrcYpxMWU9xUY5S91uD/K8UJ/EDvyjk7kStJDvtAjHV75nO78O5bxTWALRheTDgrSnR09xfbmgZXF9hXdeSiAemLpkCjx+Haq/EhXjn0ULlAumagrAU6tDrniJYct2x/5E7VOolwzSBSJ+ihT7XQozg5laAcZYxb/dOPqZPMoTRQClB6BwhZhHMa6Ovs5gcAd9+zzJReaqDYDHQgg+v8rXeEaZHBr3WDf8R1tm4kHQXXWNxEjavZ01yIPSx2JKZ3iKDyFohV+6EuwRhpx/41aqgyogj86oawJpRGEQwTwV0BQaRfQy/UrYt+P1AOO5LoysAzoxdYsMVDaEoQfRrqFrg4APuF0Q6yLPm5C7XhKkOgsRZzP1+6wZFoh04e6Ss0a1+klKeyenKyt5XIzwFdohi5RFporA1M4TKwnNvtspaGPJDIGWGRJ7+brkvrLr4tZH2EhnQLB98571MuqFyBNhZMPL/On+KJbYsPBfqL1sqhemq1GOaUU4B2GURXsxKJ7dFqPvm0B+ltyf3ujqL2jsWMVRYJiPoeac66JwpCAKuiSaukbalP6Kr2LYuOBSmPqJ3YiRRJljSigNUiasrDJcopt0KA0P2f5UW5IH3p0liZv0jz6p77n8HnASKWTM1aRYcKhselJHEW1GOxuARsW799NmZDC26QziHAwubqUSthMqUZqn9PxmCa+1KblzD9rieQ/hr5nHfKimiHBVeWCllCwgiDsWljwX+QvsQCHp0Kab5fCCSJc/aWZGZJl3Da6kPsZ3KRE8eKFA7ku3SgFCiwDN6lsvRFEHw0cB5Fna72T0d4iaHN4KEtsjKO8qDLMaSoEm1mxLKCcWEfUfUYCu+5vv7NlFnmR1xieEHMEns7+R+2Loex1X0lsJzWEXH0RSl2YhmOaGkgfwB40peLqM/2faiFNp56srFAlJAadCGo5871AIJH432T9Hkyft+9Nn5bqfu6xCvHtzZPg1Yf0iTmH2IOl1IYiu/B0viCoMQoYdeSPqC5yUFHXWjqpVugQo1pUpoqFMTX9UaMb/1qMPqVKw031If/1tJSuQHeeW3lVIEegIc+um6dKhQcB32aivYyNNJfZPW+UViceAZx4lfBxzgN3tcuHZy5pMXPUKIUrmxWmttGx45+3MWpl52wIWCaxyfgCPf7kVAvuE783tRrQDrpnLikyss9sMr4nvNxnqRGgUdbas3he0VMO0HWo1TK94YkRw4nyuwiIpf77O+r5F/csnT48p9w+0PB1mB/WBmZNPcvDE/ZHVF5SF43zTFyKwhly2zgK/auen71XIRiQCX3zc+bM99SwsEPm+TyLlHSNuOJRtl6PJ2ZxyxDhsNATA+3HzPKML2sndw8u0j8hGt/mijIgJgt5e3Df6SH6jyzZ558d/lSj+SMjsZkJ5eacAUoaPgWUaZWLSHBXvGZ/3rqZo3NDL9EXDnaeZ9ZG+rkuEn4NsqKgK8r1X2Wf8WK/rR0hADBxphC3r0nAat9BXnRwaDXxCgPqQIRqGoYzbxtQS2PFdAjMt88ZmzZJkKl6KShfiDdzIihyl9BVZmFjGz4WXRS+jKlFNhgSrSnO15ugzlbFBZmdtW9OOqL+N3rm5oC3spLX7qAKTU4x5QjDqgwO4iP1yS64jKlSN87+2dSS1gwJ9J9VZ0zW/CVBQfbE8TDkLP4RN5oLAO0CAi2Lq3nY9Zcf8LBcCLlY65cgSOEIelgfUkLRsM/7SAnDAR7J2kWi2DLB6Ys33FZ6HdqhYe1J0QtC1WhGF/w8j4ZhwcPxqoIAi7SH2OmTosXmhuwVd5yw8q/jPuzF7adxUKUkevGX4cumFJ8byB0nd9TvW2dEzS8oS9+fcnLyAhA==
+ configurations :
+  -
+    name : WD Langage Externe
+    internal_properties : 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
+    configuration_id : 17797421385349198763
+    type : 3
+    generation_name : .\WD Langage Externe.WDL
+    version :
+     version : "16.0.0.2"
+    language : 1
+ elements :
+  identifier : 0x4acc56f2001c21a4
+  elements :
+   -
+     name : Procedures globales de WD Langage Externe
+     identifier : 0x42660d330000bc56
+     internal_properties : CAAAAAgAAAC4luA8C7D4IyxmCbNCKtWwRhmVVfEih79Cz81pTdI6ziKYyevGM1JpibMtiwvFvTOdpQ==
+     physical_name : .\Procedures globales de WD Langage Externe.wdg
+     type : 7
+   -
+     name : Emplacements_dispos
+     identifier : 0x3f571de4309a01d3
+     internal_properties : CAAAAAgAAADGTC5yse7G6fZ8C7FAKceebHlr48Fl//+iJnb7iu0vqRfbrvbIMVRrj4lzTdUL9+nTUw==
+     physical_name : .\Emplacements_dispos.WDR
+     type : 5
+   -
+     name : Table_Emplacement
+     identifier : 0x3f5763d250533de2
+     internal_properties : CAAAAAgAAAACeHquHUri/VrA7xX0zquSKH/3/0co5WGii80pmXaesgL8qYsknbjPIx2HcTGvS70HDw==
+     physical_name : .\Table_Emplacement.wdw
+     type : 2
+   -
+     name : Emplacement_NonDispo
+     identifier : 0x3f571be9595249a1
+     internal_properties : CAAAAAgAAABDP7vv3ImhugWPrlSrjnTfmdjAmDDMDwBOSw+ilRKAiGBQd01lXHkOYtzGMvLuin5Gzg==
+     physical_name : .\Emplacement_NonDispo.WDR
+     type : 5
+   -
+     name : Recherche
+     identifier : 0x3f5759e90501634a
+     internal_properties : CAAAAAgAAAAbd8PH5KEJEt2XpkyzRxx3gdIszHrT2DaOfAIEsE/PWVdVDiadZIEWeqQemhrWohb+Bg==
+     physical_name : .\Recherche.wdw
+     type : 2
+   -
+     name : TEST_Fen_Principale
+     identifier : 0x40c0af790050a6ea
+     internal_properties : CAAAAAgAAADasIKGJWJKVRKo5w38uVM6KAX3/0UuRQmmphYomnWfsQf7TmZcpcDXO+Xf2VmXY1W/Rw==
+     physical_name : .\TEST_Fen_Principale.wxt
+     type : 17
+   -
+     name : Fen_Réservation
+     identifier : 0x3f56fbe346d73221
+     internal_properties : CAAAAAgAAAAAfnikA3gwa3T+kVtaiGHM5kW9pQXWmtSiN69PZ7hk7MQ+a1luS2oBEQv1w0O9RbsFDQ==
+     physical_name : .\Fen_Reservation.wdw
+     type : 2
+   -
+     name : Table_Reservation
+     identifier : 0x3f575f3530f93a40
+     internal_properties : CAAAAAgAAAC6kOImhcJqdXLIhy3cG+/u2LkXT4GKIlim9uwS0F81+90lfMj8xeD3GwX/+bk3wzWfpw==
+     physical_name : .\Table_Reservation.wdw
+     type : 2
+   -
+     name : Fen_Principale
+     identifier : 0x3f56f932512bb2a1
+     internal_properties : CAAAAAgAAADAvjhkQzhwq7Q+0Rua2i0IvoHtTQkKP1eCv90ZLcJKrhL4qZsui6rB0Uu1A4N9BfvFTQ==
+     physical_name : .\Fen_Principale.wdw
+     type : 2
+   -
+     name : Cherche_reservation
+     identifier : 0x3f5759a04fcd4920
+     internal_properties : CAAAAAgAAABSqIqeLRoSzepQf4VEBVs64L0PV+UZzDaOn0pvtuGzvTu30uLULUhfs21XoWGfW023vw==
+     physical_name : .\Cherche_reservation.WDR
+     type : 5
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Langage Externe.ana\WD Langage Externe.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : ".\\WD Langage Externe.sty\r\n.\\WD Langage Externe C.sty"
+ code_elements :
+  internal_properties : CAAAAAgAAACrgc3gyp67dnQbg+0zkbcKPyh9aN+515wBfZ89kML4/5w/rljObAw8AdyAHZiEVkLLRLzoSWHW/MP2ww17KmTn
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      // Création des fichiers si nécessaire
+      SI PAS HCréationSiInexistant(Reservation) ALORS Info("Impossible de créer ou d'initialiser l'accès au fichier : Réservation",HErreurInfo())
+      SI PAS HCréationSiInexistant(Emplacement) ALORS Info("Impossible de créer ou d'initialiser l'accès au fichier : Emplacement",HErreurInfo())
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Langage Externe
+     identifier : 0x4acc56f20027225f
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

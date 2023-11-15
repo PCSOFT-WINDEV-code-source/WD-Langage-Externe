@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WD Langage Externe">
+</Property><Property Name="Fichier solution" Value="D:\temp\17.0\WD Langage Externe\Projet C++\WD Langage Externe.sln">
+</Property><Property Name="Date" Value="vendredi 16 décembre 2011">
+</Property><Property Name="Time" Value="17:11">
+</Property></Properties><Event ErrorLevel="0" Project="WD Langage Externe" Source="WD Langage Externe.vcproj" Description="Le déploiement Web sur le serveur IIS local IIS n'est plus pris en charge. L'outil de génération Déploiement Web a été supprimé des paramètres de votre projet.">
+</Event><Event ErrorLevel="1" Project="WD Langage Externe" Source="WD Langage Externe.vcproj" Description="Cette application a été mise à jour pour inclure les paramètres liés à la fonctionnalité Contrôle de compte d'utilisateur de Windows Vista. Par défaut, lorsqu'elle est exécutée sur Windows Vista avec le Contrôle de compte d'utilisateur activé, cette application est marquée pour s'exécuter avec les mêmes privilèges que le processus qui l'a lancée. Ce marquage empêche l'application de s'exécuter avec la virtualisation. Vous pouvez changer les paramètres du Contrôle de compte d'utilisateur dans les pages de propriétés du projet.">
+</Event><Event ErrorLevel="0" Project="WD Langage Externe" Source="WD Langage Externe.vcproj" Description="Mise à niveau du projet terminée.">
+</Event><Event ErrorLevel="3" Project="WD Langage Externe" Source="WD Langage Externe.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WD Langage Externe.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="WD Langage Externe.sln" Description="Converted">
+</Event></UpgradeLog>
